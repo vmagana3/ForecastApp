@@ -21,7 +21,11 @@ _Ya sea que tengas un emulador o un dispositivo, ejecuta el siguiente comando_
 ```
 react-native run-android
 ```
-
+### App Funcionando
+_Entra a la siguinte liga para ver un videopreview del proyecto_
+```
+https://drive.google.com/file/d/1Xrx8BZ9aYIpnCRTK7fxMQoZRjUN1J3xT/view?usp=sharing
+```
 
 ### Notas
 
